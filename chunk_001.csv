@@ -1,4 +1,4 @@
-:START_ID,:END_ID,:TYPE,properties
+:START_ID,:END_ID,TYPE,properties
 Suspicious SQL Error Messages,application,Monitors,
 Suspicious SQL Error Messages,sql,Monitors,
 sql,application,Logs,
